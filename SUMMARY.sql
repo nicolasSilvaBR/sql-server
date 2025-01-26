@@ -1,16 +1,19 @@
 -- Windows Function
+    -- OVER()
+    -- PARTITION BY()
+    -- ORDER BY()
+    -- ROW_NUMBER()
+    -- RANK()
+    -- DENSE RANK()
+    -- LEAD()
+    -- LAG()
+    -- FIRST_VALUE()
 
--- OVER()
--- PARTITION BY()
--- ORDER BY()
--- ROW_NUMBER()
--- RANK()
--- DENSE RANK()
--- LEAD()
--- LAG()
--- FIRST_VALUE()
 -- SUBQUERIES
--- ROWS BETWEEN
-
-
+    -- SUBQUERIES
+    -- ROWS BETWEEN
+    -- SCALAR SUBQUERY
+    -- CORRELATED SUBQUERIES
+    -- EXISTS
+    -- FOR XML PATH With STUFF
 
