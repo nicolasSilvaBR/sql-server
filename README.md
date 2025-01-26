@@ -26,7 +26,7 @@ Learn how to implement and use subqueries effectively.
 - [CORRELATED SUBQUERIES](https://github.com/nicolasSilvaBR/sql-server/blob/main/Subqueries/CORRELATED%20SUBQUERIES.sql)
 - [EXISTS](https://github.com/nicolasSilvaBR/sql-server/blob/main/Subqueries/EXISTS.sql)
 - [FOR XML PATH With STUFF](https://github.com/nicolasSilvaBR/sql-server/blob/main/Subqueries/FOR%20XML%20PATH%20With%20STUFF.sql)
-
+- [PIVOT](https://https://github.com/nicolasSilvaBR/sql-server/blob/main/Subqueries/PIVOT.sql)
 ---
 
 Feel free to explore the repository, clone it, and contribute. If you have questions or suggestions, feel free to create an issue or reach out.
